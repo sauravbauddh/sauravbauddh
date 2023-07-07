@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **bauddhsaurav@gmail.com**
 
-- ⚡ Hobbies 🎵 Music Producer | 🎸 Guitar & Keyboard Player | 🎤 Singer
-  A multi-talented musician who loves music production, playing guitar and keyboard, and singing. Passionate about blending genres, creating unique sounds, and crafting meaningful lyrics. Experienced in live performances and collaborating with fellow artists. Let's make some awesome music together! 🎶🎹🎸🎤**
+- ⚡ Hobbies: 🎵 Music Production | 🎸 Guitar & Keyboard Player | 🎤 Singer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
