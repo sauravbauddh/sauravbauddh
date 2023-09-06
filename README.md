@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, REST API, Flutter**
 
-- 💬 Ask me about **Native Android, Firebase, Java**
+- 💬 Ask me about **Native Android, Firebase, Java, Spring Boot**
 
 - 📫 How to reach me **bauddhsaurav@gmail.com**
 
