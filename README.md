@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravbauddh&label=Profile%20views&color=0e75b6&style=flat" alt="sauravbauddh" /> </p>
 
-- 🔭 I’m currently working on **Market Mingle**
-
-- 🌱 I’m currently learning **Spring Boot, REST API, Flutter**
+- 🌱 I’m currently learning **React Js**
 
 - 💬 Ask me about **Native Android, Firebase, Java, Spring Boot**
 
