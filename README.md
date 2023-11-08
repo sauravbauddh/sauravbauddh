@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravbauddh&label=Profile%20views&color=0e75b6&style=flat" alt="sauravbauddh" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Flutter and Spring Boot**
 
 - 💬 Ask me about **Native Android, Firebase, Java, Spring Boot**
 
